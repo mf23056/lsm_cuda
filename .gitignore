@@ -1,4 +1,6 @@
 cuda/lsm/spike_train_random.csv
 cuda/lsm/spike_train.csv
 
-cuda/lyapunov/spike_train.csvcuda/tensorflow/spike_train_balance.csv
+cuda/lyapunov/spike_train.csv
+
+cuda/tensorflow/spike_train_balance.csv
